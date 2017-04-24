@@ -1,0 +1,1 @@
+java -cp C:\Workspace\SeleniumJenkinsTrigger\JenkinsTrigger\bin;C:\Workspace\SeleniumJenkinsTrigger\JenkinsTrigger\libs/* JenkinsTriggerSelenium
